@@ -71,7 +71,7 @@
   "devDependencies": {
     "@types/redis": "^2.8.17",
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "should": "^13.2.3",
     "supertest": "^4.0.2",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
